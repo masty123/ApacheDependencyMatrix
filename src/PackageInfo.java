@@ -1,3 +1,7 @@
+/**
+ * @author Theeruth Borisuth
+ * @author Nitith Chayakul
+ */
 public class PackageInfo {
 
     String packageName;
